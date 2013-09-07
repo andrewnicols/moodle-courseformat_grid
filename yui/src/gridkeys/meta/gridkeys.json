@@ -1,7 +1,4 @@
 {
   "moodle-format_grid-gridkeys": {
-    "use": [
-        "gallery-event-nav-keys"
-    ]
   }
 }
